@@ -1,6 +1,6 @@
 #Vansh Khanna
 
-> 404 East Stoughton Street, Champaign, IL • (217)281-2507 • vkhanna2@illinois.edu • vanshk.com • github.com/VanshKhanna • linkedin.com/in/KhannaVansh
+404 East Stoughton Street, Champaign, IL • (217)281-2507 • vkhanna2@illinois.edu • vanshk.com • github.com/VanshKhanna • linkedin.com/in/KhannaVansh
 
 Education
 ---------
@@ -40,6 +40,10 @@ Project Experience
 + **Rarity Operating System**, *Fall 2014*
 
     Operating System with scheduler, file system and support for multiple applications. Worked in a team of four. Wrote file system drivers. Implemented paging support as well as system calls.
+
++ **CS Faculty Analysis**, *Summer 2014*
+
+    Scraped UIUC CS faculty data from cs.illinois.edu using Python. Analyzed the relation between research focus and department using R.
 
 + **Call Notes**, *Spring 2014*
 
