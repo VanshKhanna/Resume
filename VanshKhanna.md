@@ -6,17 +6,16 @@ Education
 ---------
 * **B.S in Computer Engineering at University of Illinois at Urbana Champaign**, *2012-2016*  
     **GPA**: 3.60/4.00  
-    **Honors**: Dean's List, James Scholar  
-    **Extra-Curricular**: Member of Eta Kappa Nu (IEEE Honor Society), Editor for IEEE SPARK@UIUC  
-    **Coursework**: Computer Systems Engineering (ECE 391), Digital Signal Processing, Communication Networks, Algorithms and Models of Computation, [*Distributed Systems, Wireless Networks*]
+    **Honors**: Dean's List • James Scholar  
+    **Extra-Curricular**: Member of Eta Kappa Nu (IEEE Honor Society) • Editor for IEEE SPARK@UIUC  
+    **Coursework**: Computer Systems Engineering (ECE 391), Digital Signal Processing, Communication Networks, Algorithms and Models of Computation, [*Distributed Systems, Wireless Networks, Practical Machine Learning*]
 
 Experience
 ----------
 
 + **Intern at Akuna Capital (Champaign, Illinois)**, *Summer 2014*
 
-    System side development for a Market Interface System. Was the youngest
-    in a team of five. System was used traders to test strategies for one of
+    System side development for a Market Interface System. System was used traders to test strategies for one of
     firm's most heavily traded exchanges. Implemented the Order Entry Side of
     the exchange. Wrote unit tests for the order entry side. Developed a series
     of tests to check integrated functionality with the incoming Market Data.
@@ -56,5 +55,4 @@ Project Experience
 Skills
 ------
 * **Advanced**: C++ • x86
-
-* **Intermediate**: Python • R • Web Scraping • Javascript
+* **Intermediate**: Python • R • Javascript • Data Mining • Android
