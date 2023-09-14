@@ -1,58 +1,50 @@
-#Vansh Khanna
+# VANSH KHANNA
+- Phone: 217-281-2507
+- LinkedIn: [in/khannavansh](https://www.linkedin.com/in/khannavansh)
+- Email: kvansh12@gmail.com
 
-404 East Stoughton Street, Champaign, IL • (217)281-2507 • vkhanna2@illinois.edu • vanshk.com • github.com/VanshKhanna • linkedin.com/in/KhannaVansh
+## EXPERIENCE
 
-Education
----------
-* **B.S in Computer Engineering at University of Illinois at Urbana Champaign**, *2012-2016*  
-    **GPA**: 3.60/4.00  
-    **Honors**: Dean's List • James Scholar  
-    **Extra-Curricular**: Member of Eta Kappa Nu (IEEE Honor Society) • Editor for IEEE SPARK@UIUC  
-    **Coursework**: Computer Systems Engineering (ECE 391), Digital Signal Processing, Communication Networks, Algorithms and Models of Computation, [*Distributed Systems, Wireless Networks, Practical Machine Learning*]
+**Senior Software Engineer** | Amplitude (San Francisco) | June 2022 - Present
+- Tech-lead for Recommendations/Predictions and infrastructure for Kafka based Data Pipeline.
+- Expanded the Recommendations product to cache hourly results in DynamoDB table to provide single digit millisecond lookups, reducing latency for APAC customers by 50% and winning a $500K contract expansion.
+- Redesigned ML jobs with new cache for Recommendations product to handle nightly spike of 20K TPS. 
+- Optimized writes to DynamoDB from a mix of services across 2 teams to save ~$100K/year.
+- Worked across teams to expand existing Postgres databases to support features like fine-tuned data access control and flexible pricing across Amplitude product suite.
 
-Experience
-----------
+**Senior Software Engineer** | Flexe (Seattle) | June 2021 – June 2022
+- Led customer integrations for all customers ranging from non-technical SMBs to Nike.
+- Led 2 engineers to build internal solution for handling customer integrations for proprietary Walmart protocol (AS2). 
+- Merged 4 different code bases into 1 to reduce customer integration time by weeks and reduce size of codebase by 90%.
 
-+ **Intern at Akuna Capital (Champaign, Illinois)**, *Summer 2014*
+**Software Development Engineer** | AWS DynamoDB – Logs (Seattle) | Oct 2018 – June 2021
+- Tech-lead for DynamoDB’s core data archival and log replication service, managing 2 Exabytes of data backups while maintaining high availability and durability for DynamoDB (~90 million requests per second during peak hours). 
+- Created long-term plan and strategy to build first-of-its-kind database with S3 as a storage engine.
+- Led design and implementation with a team of 6 to double DynamoDB’s availability and durability at a 10th of the cost.
+- Proposed and led design and implementation for a fully distributed control plane to manage ~1.5K bare metal ec2 instances using gossip and distributed executors.
+- Designed and implemented a new token counting system for DynamoDB On-Demand feature.
+- Built a data corruption detection tool to quickly parse through exabytes of data to confirm a bug in Samsung hard disks.
 
-    System side development for a Market Interface System. System was used traders to test strategies for one of
-    firm's most heavily traded exchanges. Implemented the Order Entry Side of
-    the exchange. Wrote unit tests for the order entry side. Developed a series
-    of tests to check integrated functionality with the incoming Market Data.
+**Software Development Engineer** | AWS DynamoDB - Streams | July 2016 – Oct 2018
+- Mentored and guided 2 engineers to build a new asynchronous service to handle GDPR data deletion.
+- Mentored and guided an engineer in Seattle and 2 engineers in Virginia to expand Data Backups feature for Gov Cloud.
+- Led design and implementation for the encryption of data backups. Worked alongside the principal security engineer and General Manager of DynamoDB to balance security with quick delivery for Samsung and NSA.
+- Led end-to-end design, implementation, and rollout of the space-saving feature creating savings of $500K/month.
+- Automated tedious testing tasks, reducing testing time from 1 month to 1 week.
 
-+ **Intern at NIIT Technologies, Ltd (Noida, India)**, *Summer 2013*
+## SKILLS
+- Java, C++, Python, Go Lang; AWS, GCP
+- Distributed Systems, Paxos, Consensus Algorithms, Database Architecture, Gossip Protocol
 
-    Wrote a time efficient algorithm in C++ to parse and edit captured
-    TCP/IP packets. Used AVL trees to ensure fast read and writes.
+## PROJECTS/PUBLICATIONS
+- **Archie** (Co-Founder: 06/23 – Present): LLM based on-call agent that automates runbook execution for AWS infrastructure. Runs with baseline OpenAI model.
+- **Bluetooth Low Energy in Dense IoT Environments** (Research Assistant: 2016): Built prototype to demo how BLE can be deployed in large scale noisy environments.
+- **Smart LaBLEs** (Research Assistant: 2016): Built prototype to demo how BLE can be used to track inventory.
+- **Amazon DynamoDB** (2022): Tech lead for team (Mo Erben) listed as author. Directly led design and implementation of log replicas (explained in the paper).
 
-Research
---------
-* **Research Assistant, University of Illinois**, *Spring 2015 - Present*
+## EDUCATION
+- **University of Illinois at Urbana Champaign** | Aug 2012 – May 2016
+- B.S. Computer Engineering with Honors | GPA: 3.60/4.00  
+- Honors: Dean’s List (Fall 2012): Top 20% of class, James Scholar (2013 – 2014), HKN Member
+- Teaching Assistant - ECE 391 - (2015-2016) – core operating systems; class size – 200
 
-    Working with Prof. Robin Kravets in the field of Mobile Computing. Focused
-    on development of Internet of Things. Developed an eco system of
-    smart objects with Android, Estimote Eddystone Beacons and nRF51 DK. Designed tests to analyze the scanning and advertising performance of Bluegiga BLED 112. Wrote an Android application to control sensors on nRF51 DK using Bluetooth Low Energy.
-
-Project Experience
-------------------
-
-+ **Rarity Operating System**, *Fall 2014*
-
-    Operating System with scheduler, file system and support for multiple applications. Worked in a team of four. Wrote file system drivers. Implemented paging support as well as system calls.
-
-+ **CS Faculty Analysis**, *Summer 2014*
-
-    Scraped UIUC CS faculty data from cs.illinois.edu using Python. Analyzed the relation between research focus and department using R.
-
-+ **Call Notes**, *Spring 2014*
-
-    Application to record, transcribe, parse user voice mail and send user the key points using SMS. Implemented in Ruby. Wrote the script using Twilio API.
-
-+ **Driver Interface, Illini Formula Electric**, *Fall 2014*
-
-    Part of team building a fully functional electric car. Leader of driver interface subsystem. Worked with the Chassis subsystem to design the dash board. Implemented speedometer using Hall Effect Sensors and Arduino.
-
-Skills
-------
-* **Advanced**: C++ • x86
-* **Intermediate**: Python • R • Javascript • Data Mining • Android
